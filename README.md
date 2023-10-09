@@ -1,3 +1,6 @@
+![Shadir's GitHub Banner](https://media.licdn.com/dms/image/D5616AQGgVHn6fZeFFQ/profile-displaybackgroundimage-shrink_350_1400/0/1673892485014?e=1684368000&v=beta&t=A3vj-aw2ySqPh3QaTaCXIAx77Bicww4-JYhihj8f7Pc)
+
+
 # 💫 About Me:
 Hey, I'm Mustafa, a web developer and Computer Science student 📚. I thrive on crafting with Next.js, React.js, Node.js, and WordPress 💻. With a passion for turning ideas into code-driven realities, I'm all about creating exceptional web experiences 🚀. Let's collaborate and build something extraordinary together! 🌐
 
