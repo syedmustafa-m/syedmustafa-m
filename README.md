@@ -12,7 +12,7 @@
 
 <div align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,photoshop,xd,figma,vscode,androidstudio,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=photoshop,figma,vscode,github,illustrator,typescript,javascript,planetscale,vercel&theme=dark" />
   </a>
  
 </div>
